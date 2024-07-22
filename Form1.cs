@@ -8,7 +8,7 @@ namespace Test_Project2
             label1.Text = "0";
         }
 
-       
+
         //실수로 만든 이벤트
         private void panel1_Paint(object sender, PaintEventArgs e)
         {
@@ -16,12 +16,18 @@ namespace Test_Project2
         }
 
 
-        //버튼 1 클릭시
+
         private void button1_Click(object sender, EventArgs e)
         {
-           int num = int.Parse(label1.Text);
-           num++;
-           label1.Text = num.ToString();
+
+        }
+
+        //버튼2 클릭 시
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int a = int.Parse(label1.Text);
+            a--;
+            label1.Text = a.ToString();
         }
     }
 }
