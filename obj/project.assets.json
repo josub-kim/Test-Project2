@@ -8,19 +8,19 @@
     "net6.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\김조섭\\.nuget\\packages\\": {}
+    "C:\\Users\\wnqkt\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Test_Project2\\Test_Project2.csproj",
+      "projectUniqueName": "C:\\C\\daehee\\Test_Project2.csproj",
       "projectName": "Test_Project2",
-      "projectPath": "C:\\C#\\Test_Project2\\Test_Project2.csproj",
-      "packagesPath": "C:\\Users\\김조섭\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Test_Project2\\obj\\",
+      "projectPath": "C:\\C\\daehee\\Test_Project2.csproj",
+      "packagesPath": "C:\\Users\\wnqkt\\.nuget\\packages\\",
+      "outputPath": "C:\\C\\daehee\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\김조섭\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\wnqkt\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303\\RuntimeIdentifierGraph.json"
       }
     }
   }
