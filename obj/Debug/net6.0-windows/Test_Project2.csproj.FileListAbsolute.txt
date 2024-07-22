@@ -1,0 +1,17 @@
+C:\C#\Test_Project2\bin\Debug\net6.0-windows\Test_Project2.exe
+C:\C#\Test_Project2\bin\Debug\net6.0-windows\Test_Project2.deps.json
+C:\C#\Test_Project2\bin\Debug\net6.0-windows\Test_Project2.runtimeconfig.json
+C:\C#\Test_Project2\bin\Debug\net6.0-windows\Test_Project2.dll
+C:\C#\Test_Project2\bin\Debug\net6.0-windows\Test_Project2.pdb
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.csproj.AssemblyReference.cache
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.Form1.resources
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.csproj.GenerateResource.cache
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.AssemblyInfoInputs.cache
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.AssemblyInfo.cs
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.csproj.CoreCompileInputs.cache
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.dll
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\refint\Test_Project2.dll
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.pdb
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\Test_Project2.genruntimeconfig.cache
+C:\C#\Test_Project2\obj\Debug\net6.0-windows\ref\Test_Project2.dll
